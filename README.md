@@ -11,3 +11,8 @@ netsh wlan show profiles
 ```cmd
 netsh wlan show profile wifi-name key=clear
 ```
+<br>
+
+| Known Networks | Program in work |
+| -------------- | ------------- |
+| <img src="https://github.com/MrGrizz11/SavedWiFiPasswords/blob/main/saved%20networks.png"> | <img src="https://github.com/MrGrizz11/SavedWiFiPasswords/blob/main/wifi%20demonstration.gif"> |
