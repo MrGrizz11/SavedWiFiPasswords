@@ -13,11 +13,7 @@ netsh wlan show profile wifi-name key=clear
 ```
 <br>
 
-<!-- 
+
 | Known Networks | Program in work |
 | -------------- | ------------- |
-| <img src="https://github.com/MrGrizz11/SavedWiFiPasswords/blob/main/saved%20networks.png"> | <img src="https://github.com/MrGrizz11/SavedWiFiPasswords/blob/main/wifi%20demonstration.gif"> | -->
-
-<h3>IMG</h3>
-
-<img src="https://github.com/MrGrizz11/UnityGameHDRP/blob/main/1.png">
+| <img src="https://github.com/MrGrizz11/SavedWiFiPasswords/blob/main/1.png"> | <img src="https://github.com/MrGrizz11/SavedWiFiPasswords/blob/main/2.gif"> |
